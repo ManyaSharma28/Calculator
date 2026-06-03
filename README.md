@@ -26,7 +26,8 @@ A simple calculator built using HTML, CSS, and JavaScript that performs basic ar
 * `calculator.css` – Styling
 * `calculator.js` – Calculator logic
 
-## Author
+
 <img width="390" height="548" alt="Screenshot 2026-06-03 223933" src="https://github.com/user-attachments/assets/86011528-9273-4f4e-914f-886b3cb83d25" />
-                                                                  
+
+## Author                                                             
 Manya Sharma
